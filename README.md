@@ -30,7 +30,7 @@ Questions:
 •	Location for the LoRaWAN Gateway. 
 Requirements:
 o	As high as possible
-o	Ethernet 10/100Mbit available? 220 or 110voltage? 
+o	Ethernet 10/100Mbit available? 220 or 110voltage power supply? 
 
 
 ### Sensor-module
