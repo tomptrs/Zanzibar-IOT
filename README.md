@@ -32,6 +32,8 @@ Requirements:
 o	As high as possible
 o	Ethernet 10/100Mbit available? 220 or 110voltage power supply? 
 
+- 15km average distance
+
 
 ### Sensor-module
 
@@ -41,7 +43,7 @@ o	Ethernet 10/100Mbit available? 220 or 110voltage power supply?
 - monitoring sea water level, size of island , forest density => satelite based => next year project
 
 ### Database
-Data from the sensors will be used for a real-time visualization of the islands. Data will be accessible via an API.
+Data from the sensors will be used for a real-time visualization of the islands. Data will be accessible via an API. API will be build by Node.JS Node-RED module.
 
 ### Digital twin
 
