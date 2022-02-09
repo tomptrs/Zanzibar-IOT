@@ -26,6 +26,13 @@ TBD
 An IoT Network Kit (INK) will be developed which will be completely independent
 of the local infrastructure. 
 
+Questions:
+•	Location for the LoRaWAN Gateway. 
+Requirements:
+o	As high as possible
+o	Ethernet 10/100Mbit available? 220 or 110voltage? 
+
+
 ### Sensor-module
 
 - Salinity in the sea water surrounding those islands causes a temperature rise and effecting fishes
