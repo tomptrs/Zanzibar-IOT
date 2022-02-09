@@ -15,7 +15,7 @@ will travel to Zanzibar for the roll out.
 The solution will be used by [Karume Institute of Science]
 and Technology - Zanzibar](https://kist.ac.tz/) (KIST). KIST is located in Zanzibar
 
-<img style="display: block; margin: auto;" src="assets/img/zanzibar-map.jpg" alt="Zanzibar Island Map" height="400px"> 
+<img style="display: block; margin: auto;" src="zanzibar-map.jpg" alt="Zanzibar Island Map" height="400px"> 
 
 ###  planning 
 TBD
